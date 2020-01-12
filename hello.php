@@ -1,3 +1,3 @@
 <?php
-    echo "Hello, world";
-    
+session_start()
+echo "Hello, world";
