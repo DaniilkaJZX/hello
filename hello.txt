@@ -3,3 +3,4 @@
 Ой, это нужно удалить
 
 Hello, git!
+Hello, git rebase!
